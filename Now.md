@@ -1,16 +1,8 @@
-# What Buster is doing now
+# What Julio is doing now
 
-_Last updated: May 14th, 2017._
-
-This page is accessible from [busterbenson.com/now](http://busterbenson.com/now), and was inspired by [this post by Derek Sivers](https://sivers.org/nowff).
+_Last updated: Jan 8th 2021._
 
 Here's what I'm doing now:
 
-* Living in Berkeley, CA, with Kellianne, Niko, and Louie.
-* Working at [Slack](http://slack.com) as a product lead for the platform team.
-* On the board of directors at [NaNoWriMo](http://nanowrimo.org).
-* An advisor to [Coach.me](http://coach.me), a platform for self-improvement.
-* Helping Kellianne keep [750 Words](http://750words.com) alive.
-
-
-
+- Living in Mafra, Portugal, with Cristina, Joana, Rita and Luna.
+- Working at [Hitachi Vantara](https://www.hitachivantara.com/en-us/company.html) as a Software Developer in the UIKit Development Team.

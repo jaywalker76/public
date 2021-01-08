@@ -1,7 +1,3 @@
-When I turned 30, my birthday motto was "Higher highs and lower lows".
-
-When I turned 31, my birthday motto was [Double down](http://busterbenson.livejournal.com/120184.html).
-
 When I turned 32, my birthday motto was [No problem](http://busterbenson.livejournal.com/204717.html).
 
 Last year, my 33rd birthday coincided with my last day at the [Robot Co-op](http://robotcoop.com/) and the beginning of [Enjoymentland](http://enjoymentland.com/). My motto for the year was [Frugal to the max](https://github.com/busterbenson/public/blob/master/files/yearly-report-33.md) I just did a little calculation and it looks like our spending over the last 12 months compared to the 12 months prior was 34% lower. So, at least on the money front, I think we did pretty well on the frugality goal.
@@ -14,11 +10,9 @@ And I guess during this month that I’m taking off from working on anything, I 
 
 At the same time, I’m rather obsessed with my 13 day-old son, Niko, Mr. Crane, and plan on putting a big chunk of my mental and physical energy into guiding his person and personality. I feel like my work and home interests dovetail into a common goal of enjoying and appreciating the short confusing surprising life we’ve found ourselves in, and if everything can find inspiration in that tangle, everything should tie together pretty well.
 
-[Retweeted](http://twitter.com/busterbenson/status/14888451749) last night, and still appropriate this morning:
-
 "Human nature has a tendency to Admire Complexity and Reward Simplicity."
 
-Another somehow related quote from page 37 of Hemingway’s *Garden of Eden*:
+Another somehow related quote from page 37 of Hemingway’s _Garden of Eden_:
 
 "Be careful, he said to himself, it is all very well for you to write simply and the simpler the better. But do not start to think so damned simply. Know how complicated it is and then state it simply."
 
@@ -30,22 +24,32 @@ I’ve had a core set of goals to live by for 3 years now, and it has been shift
 
 Here they are, one more time, with a bit more temporarily added to each sentence.
 
-* You must not dilly-dally, so that the Resistance doesn’t trick you.
-* You must be your word, so that you trust yourself.
-* You must have good intentions, so that you do not betray yourself.
-* You must admit to being the maker of meaning, so that you know what you’re getting.
-* You must not feel sorry for yourself, so that you do not become a martyr.
-* You must have a vision that you are striving for, so that your work moves in a direction.
-* You must tie creativity and experimentation with survival, so that you don’t take your work lightly.
-* You must be the change you want to see, so that you don’t blame others.
-* You must rally others with your vision, so that your vision gains momentum.
-* You must stake your reputation on your better self, so that you become your better self.
-* You must be comfortable with the consequences of being who you are, so that you grow in responsibility.
-* You must share, so that your motivations remain clear.
-* You must make your own advice and take it, so that you trust your own instincts.
-* You must manage your stress, health, and clarity, so that your core stays in balance.
-* You must study your mistakes, so that you don’t make incorrect generalizations.
-* You must retry things you don’t like every once in a while, so that your tastes grow.
-* You must make time to enjoy things, so that you have time to enjoy things.
+- You must not dilly-dally, so that the Resistance doesn’t trick you.
+- You must be your word, so that you trust yourself.
+- You must have good intentions, so that you do not betray yourself.
+- You must admit to being the maker of meaning, so that you know what you’re getting.
+- You must not feel sorry for yourself, so that you do not become a martyr.
+- You must have a vision that you are striving for, so that your work moves in a direction.
+- You must tie creativity and experimentation with survival, so that you don’t take your work lightly.
+- You must be the change you want to see, so that you don’t blame others.
+- You must rally others with your vision, so that your vision gains momentum.
+- You must stake your reputation on your better self, so that you become your better self.
+- You must be comfortable with the consequences of being who you are, so that you grow in responsibility.
+- You must share, so that your motivations remain clear.
+- You must make your own advice and take it, so that you trust your own instincts.
+- You must manage your stress, health, and clarity, so that your core stays in balance.
+- You must study your mistakes, so that you don’t make incorrect generalizations.
+- You must retry things you don’t like every once in a while, so that your tastes grow.
+- You must make time to enjoy things, so that you have time to enjoy things.
+
+# Goals:
+
+- Become profficient in Blender
+- Know the guitar notes by heart
+- Build a guitar from scratch
+- Learn electronics
+- Run 2k Kms
+- Get in shape to run a triathlon in 2022
+- Get better at drawing
 
 I want this year to be the year of cultivating the core.
